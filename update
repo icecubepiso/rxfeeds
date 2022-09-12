@@ -1,3 +1,13 @@
+# DevLog 4.0.6 - 12/09/2022
+    • Casino visual fixes
+    • Nyní můžete hrát šipky 
+    • Vysílačka byla přepsaná do Vue
+    • Opraveno pár handlingu..
+    • Opraveny menší chyby v zabezpečení
+    • Opraveno střílení z helikoptér
+    • Novej loading (no shit)
+    • Nějaké menší fixy, které nestojí za vypsání
+
 # DevLog 4.0.5 - 29/8/2022
     • Fix loadingscreen překladu
     • Optimalizace doorlocku a opravení pár chyb
